@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "If+iB3pq4yw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salak401\\source\\repos\\Futbol\\Dominio\\lib_dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\salak401\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
